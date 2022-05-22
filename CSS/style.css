@@ -1,0 +1,33 @@
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Ms+Madi&family=Prompt:ital,wght@0,100;1,200&family=Radio+Canada:wght@300&family=Square+Peg&family=Water+Brush&display=swap');
+
+body{
+  font-family: 'Radio Canada', sans-serif;
+  background-color: #F8F4E1;
+  margin: 0px;
+
+  font-size: 18px;
+  line-height: 1.37;
+  letter-spacing: 1;
+  font-weight: 400;
+  color: #000;
+
+}
+
+ h1{
+  font-family: 'Dancing Script', cursive;
+  color: #F8F4E1;
+  font-size: 100px;
+ }
+ h2 {
+  font-family: 'Dancing Script', cursive;
+}
+  h3{font-family: 'Radio Canada', sans-serif;}
+
